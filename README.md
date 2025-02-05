@@ -1,7 +1,7 @@
 # DFS-BFS-Visualization-with-processing
-![demo](./assets/demo.gif)
-
 ## This project visualizes how Depth-first and Breadth-first search work. In addition, it implements DFS with hashtables to remember dead-ends.
+
+![demo](./assets/demo.gif)
 
 ## How to run the project
 - Install Python
